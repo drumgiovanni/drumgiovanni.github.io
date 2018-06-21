@@ -171,6 +171,13 @@ a:focus {
     
 }
 
+.over-img {
+    position:absolute;
+    z-index:2;
+    top:-240px;
+    left:370px;
+
+}
 .wide {
     width: 1300px;
 }
