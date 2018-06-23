@@ -178,6 +178,12 @@ a:focus {
     left:370px;
 
 }
+.over-img2 {
+    position:absolute;
+    z-index:2;
+    top:-270px;
+    left:-84px;
+}
 .wide {
     width: 1300px;
 }
