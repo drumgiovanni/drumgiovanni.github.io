@@ -174,15 +174,17 @@ a:focus {
 .over-img {
     position:absolute;
     z-index:2;
-    top:-240px;
-    left:370px;
+    top:-40px;
+    left:704px;
 
 }
 .over-img2 {
     position:absolute;
     z-index:2;
-    top:-270px;
-    left:-84px;
+    top:-37px;
+    left:235px;
+}
+#invisible {
 }
 .wide {
     width: 1300px;
