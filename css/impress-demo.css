@@ -174,15 +174,15 @@ a:focus {
 .over-img {
     position:absolute;
     z-index:2;
-    top:-40px;
-    left:704px;
+    top:-3%;
+    left:54%;
 
 }
 .over-img2 {
     position:absolute;
     z-index:2;
-    top:-37px;
-    left:235px;
+    top:-3%;
+    left:19%;
 }
 #invisible {
 }
